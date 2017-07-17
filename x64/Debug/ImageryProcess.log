@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ImageryProcess.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MainForm.cpp
+c:\users\chang-pc\documents\visual studio 2015\projects\imageryprocess\diptools.h(45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chang-pc\documents\visual studio 2015\projects\imageryprocess\diptools.h(49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chang-pc\documents\visual studio 2015\projects\imageryprocess\MainForm.h(892): warning C4551: function call missing argument list
+c:\opencv\build\include\opencv2\core\cvstd.hpp(596): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(413): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(703): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(1929): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(3530): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(601): warning C4793: 'cv::Mat::operator=': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\cvstd.hpp(673): warning C4793: 'cv::String::operator=': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  ImageryProcess.vcxproj -> C:\Users\CHANG-PC\Documents\Visual Studio 2015\Projects\ImageryProcess\x64\Debug\Imagery_Process.exe
+  ImageryProcess.vcxproj -> C:\Users\CHANG-PC\Documents\Visual Studio 2015\Projects\ImageryProcess\x64\Debug\Imagery_Process.pdb (Full PDB)
